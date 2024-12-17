@@ -17,13 +17,13 @@ export default function HeroSection() {
         </div>
         <p>Also Available On</p>
         <div className="social_img">
-          <img src="./src/image/flipkart.png" />
-          <img src="./src/image/amazon.png" />
+          <img src="../Project-01/image/flipkart.png" />
+          <img src="../Project-01/image/amazon.png" />
         </div>
       </div>
 
       <div className="hero-image">
-        <img src="./src/image/shoe_image.png" />
+        <img src="../Project-01/image/shoe_image.png" />
       </div>
     </div>
   );

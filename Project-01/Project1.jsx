@@ -3,7 +3,7 @@ import "./style.css";
 import Navigation from "./components/Navigation";
 import HeroSection from "./components/HeroSection";
 
-export default function App() {
+export default function Project1() {
   return (
     <div className="container">
       <Navigation />
